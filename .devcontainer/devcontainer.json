@@ -8,7 +8,7 @@
     "vscode": {
       "extensions": [
         "ms-python.python",
-        "ms-azure-ai.foundry-toolkit"
+        "ms-windows-ai-studio.windows-ai-studio"
       ]
     }
   },
